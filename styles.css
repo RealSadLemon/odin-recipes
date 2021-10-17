@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.menu-bar {
+    border: hidden;
+    border-radius: 10%;
+    background-color: rgba(114, 21, 21, 0.821);
+}
+
+#home-button {
+    font-size: 20px;
+    color: rgb(118, 204, 233);
+}
+
+.menu-item {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 8px;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 18px;
+}
