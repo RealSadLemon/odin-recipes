@@ -47,6 +47,11 @@ a:hover {
     margin-right: 10%;
 }
 
+.index-link {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
 .index-button {
     border-style: none;
     border-radius: 5px;
