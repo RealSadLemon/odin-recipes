@@ -17,13 +17,25 @@ a:hover {
     font-size: 20px;
     color: rgb(118, 204, 233);
     border-radius: 30px;
+    margin-right: 8px;
 }
 
 .menu-item {
     list-style-type: none;
     display: inline-block;
-    margin-right: 8px;
     background-color: rgba(0, 0, 0, 0.5);
     font-size: 18px;
-    border-radius: 20px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title-item {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 100%;
+}
+
+.index-list {
+    background-color: lightblue;
 }
