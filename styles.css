@@ -41,6 +41,25 @@ a:hover {
     text-align: center;
     float: unset;
     list-style-type: none;
+    margin-bottom: 10px;
+    border-radius: 250px;
+}
+
+.index-button {
+    border-style: none;
+    border-radius: 5px;
+}
+
+.index-button:hover {
+    background-color: rgba(255, 99, 71, 0.233);
+    color: rgb(255, 255, 255);
+}
+
+.index-image {
+    height: 200px;
+    border-radius: 20%;
+    border-style: dashed;
+    border-color: violet;
 }
 
 body {
