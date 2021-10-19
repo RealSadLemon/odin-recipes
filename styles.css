@@ -43,6 +43,13 @@ a:hover {
     list-style-type: none;
     margin-bottom: 10px;
     border-radius: 250px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.index-link {
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
 .index-button {
@@ -55,11 +62,19 @@ a:hover {
     color: rgb(255, 255, 255);
 }
 
-.index-image {
-    height: 200px;
+.image {
     border-radius: 20%;
     border-style: dashed;
     border-color: violet;
+}
+
+.index-image {
+    height: 200px;
+}
+
+.main-image {
+    height: 600px;
+    align-content: center;
 }
 
 body {
