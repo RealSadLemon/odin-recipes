@@ -36,6 +36,13 @@ a:hover {
     border-radius: 100%;
 }
 
-.index-list {
+.index-item {
     background-color: lightblue;
+    text-align: center;
+    float: unset;
+    list-style-type: none;
+}
+
+body {
+    background-color: rgba(236, 130, 130, 0.432);
 }
